@@ -16,7 +16,7 @@ public class example {
 	 * A function.
 	 */
 	public static void helloWorld() {
-		System.out.println("Hello World!");
+		System.out.println("Yay a project!");
 	}
 
 }
